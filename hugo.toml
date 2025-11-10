@@ -43,7 +43,7 @@ buildExpired = false
 Welcome! I write deep technical explorations of performance engineering, systems debugging, and AI infrastructure challenges.
 
 **Featured Series:**
-- [DGX Spark Deep Dive](/blog/projects/dgx-spark/) - Investigating container memory overhead on Grace Blackwell's unified memory architecture
+- [DGX Spark Deep Dive](/projects/dgx-spark/) - Investigating container memory overhead on Grace Blackwell's unified memory architecture
 """
 
   [[params.socialIcons]]
