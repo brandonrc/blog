@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Brandon&#39;s Technical Blog</title>
-    <link>https://brandonrc.github.io/blog/tags/</link>
+    <link>https://brandongeraci.com/tags/</link>
     <description>Recent content in Tags on Brandon&#39;s Technical Blog</description>
     <generator>Hugo -- 0.146.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Nov 2025 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://brandonrc.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brandongeraci.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep-Dive</title>
-      <link>https://brandonrc.github.io/blog/tags/deep-dive/</link>
+      <link>https://brandongeraci.com/tags/deep-dive/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/deep-dive/</guid>
+      <guid>https://brandongeraci.com/tags/deep-dive/</guid>
       <description></description>
     </item>
     <item>
       <title>Dgx-Spark</title>
-      <link>https://brandonrc.github.io/blog/tags/dgx-spark/</link>
+      <link>https://brandongeraci.com/tags/dgx-spark/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/dgx-spark/</guid>
+      <guid>https://brandongeraci.com/tags/dgx-spark/</guid>
       <description></description>
     </item>
     <item>
       <title>Kv-Cache</title>
-      <link>https://brandonrc.github.io/blog/tags/kv-cache/</link>
+      <link>https://brandongeraci.com/tags/kv-cache/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/kv-cache/</guid>
+      <guid>https://brandongeraci.com/tags/kv-cache/</guid>
       <description></description>
     </item>
     <item>
       <title>Memory</title>
-      <link>https://brandonrc.github.io/blog/tags/memory/</link>
+      <link>https://brandongeraci.com/tags/memory/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/memory/</guid>
+      <guid>https://brandongeraci.com/tags/memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Tensorrt-Llm</title>
-      <link>https://brandonrc.github.io/blog/tags/tensorrt-llm/</link>
+      <link>https://brandongeraci.com/tags/tensorrt-llm/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/tensorrt-llm/</guid>
+      <guid>https://brandongeraci.com/tags/tensorrt-llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Conclusions</title>
-      <link>https://brandonrc.github.io/blog/tags/conclusions/</link>
+      <link>https://brandongeraci.com/tags/conclusions/</link>
       <pubDate>Sat, 08 Nov 2025 14:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/conclusions/</guid>
+      <guid>https://brandongeraci.com/tags/conclusions/</guid>
       <description></description>
     </item>
     <item>
       <title>Phase2</title>
-      <link>https://brandonrc.github.io/blog/tags/phase2/</link>
+      <link>https://brandongeraci.com/tags/phase2/</link>
       <pubDate>Sat, 08 Nov 2025 14:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/phase2/</guid>
+      <guid>https://brandongeraci.com/tags/phase2/</guid>
       <description></description>
     </item>
     <item>
       <title>Recommendations</title>
-      <link>https://brandonrc.github.io/blog/tags/recommendations/</link>
+      <link>https://brandongeraci.com/tags/recommendations/</link>
       <pubDate>Sat, 08 Nov 2025 14:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/recommendations/</guid>
+      <guid>https://brandongeraci.com/tags/recommendations/</guid>
       <description></description>
     </item>
     <item>
       <title>Benchmarking</title>
-      <link>https://brandonrc.github.io/blog/tags/benchmarking/</link>
+      <link>https://brandongeraci.com/tags/benchmarking/</link>
       <pubDate>Sat, 08 Nov 2025 13:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/benchmarking/</guid>
+      <guid>https://brandongeraci.com/tags/benchmarking/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://brandonrc.github.io/blog/tags/data/</link>
+      <link>https://brandongeraci.com/tags/data/</link>
       <pubDate>Sat, 08 Nov 2025 13:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/data/</guid>
+      <guid>https://brandongeraci.com/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Results</title>
-      <link>https://brandonrc.github.io/blog/tags/results/</link>
+      <link>https://brandongeraci.com/tags/results/</link>
       <pubDate>Sat, 08 Nov 2025 13:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/results/</guid>
+      <guid>https://brandongeraci.com/tags/results/</guid>
       <description></description>
     </item>
     <item>
       <title>Cgroups</title>
-      <link>https://brandonrc.github.io/blog/tags/cgroups/</link>
+      <link>https://brandongeraci.com/tags/cgroups/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/cgroups/</guid>
+      <guid>https://brandongeraci.com/tags/cgroups/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://brandonrc.github.io/blog/tags/docker/</link>
+      <link>https://brandongeraci.com/tags/docker/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/docker/</guid>
+      <guid>https://brandongeraci.com/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Grace-Blackwell</title>
-      <link>https://brandonrc.github.io/blog/tags/grace-blackwell/</link>
+      <link>https://brandongeraci.com/tags/grace-blackwell/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/grace-blackwell/</guid>
+      <guid>https://brandongeraci.com/tags/grace-blackwell/</guid>
       <description></description>
     </item>
     <item>
       <title>Unified-Memory</title>
-      <link>https://brandonrc.github.io/blog/tags/unified-memory/</link>
+      <link>https://brandongeraci.com/tags/unified-memory/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/unified-memory/</guid>
+      <guid>https://brandongeraci.com/tags/unified-memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Chroot</title>
-      <link>https://brandonrc.github.io/blog/tags/chroot/</link>
+      <link>https://brandongeraci.com/tags/chroot/</link>
       <pubDate>Sat, 08 Nov 2025 11:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/chroot/</guid>
+      <guid>https://brandongeraci.com/tags/chroot/</guid>
       <description></description>
     </item>
     <item>
       <title>Debugging</title>
-      <link>https://brandonrc.github.io/blog/tags/debugging/</link>
+      <link>https://brandongeraci.com/tags/debugging/</link>
       <pubDate>Sat, 08 Nov 2025 11:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/debugging/</guid>
+      <guid>https://brandongeraci.com/tags/debugging/</guid>
       <description></description>
     </item>
     <item>
       <title>Mpi</title>
-      <link>https://brandonrc.github.io/blog/tags/mpi/</link>
+      <link>https://brandongeraci.com/tags/mpi/</link>
       <pubDate>Sat, 08 Nov 2025 11:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/mpi/</guid>
+      <guid>https://brandongeraci.com/tags/mpi/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>https://brandonrc.github.io/blog/tags/performance/</link>
+      <link>https://brandongeraci.com/tags/performance/</link>
       <pubDate>Sat, 08 Nov 2025 10:00:00 +0000</pubDate>
-      <guid>https://brandonrc.github.io/blog/tags/performance/</guid>
+      <guid>https://brandongeraci.com/tags/performance/</guid>
       <description></description>
     </item>
   </channel>

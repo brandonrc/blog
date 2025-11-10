@@ -4,7 +4,7 @@ A technical blog showcasing deep dives into performance engineering, systems deb
 
 ## Live Site
 
-**Blog**: https://brandonrc.github.io/blog/
+**Blog**: https://brandongeraci.com/
 
 ## About
 
@@ -12,7 +12,7 @@ This blog is a collection of technical investigation series where I explore comp
 
 ### Current Series
 
-1. **[DGX Spark Deep Dive](https://brandonrc.github.io/blog/projects/dgx-spark/)** - A 6-part investigation into Docker container memory overhead on NVIDIA DGX Spark with Grace Hopper's unified memory architecture
+1. **[DGX Spark Deep Dive](https://brandongeraci.com/projects/dgx-spark/)** - A 6-part investigation into Docker container memory overhead on NVIDIA DGX Spark with Grace Hopper's unified memory architecture
 
 ## Tech Stack
 

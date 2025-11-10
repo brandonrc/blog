@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brandonrc.github.io/blog/projects/dgx-spark/</loc>
+    <loc>https://brandongeraci.com/projects/dgx-spark/</loc>
     <lastmod>2025-11-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/</loc>
+    <loc>https://brandongeraci.com/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/categories/</loc>
+    <loc>https://brandongeraci.com/categories/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/deep-dive/</loc>
+    <loc>https://brandongeraci.com/tags/deep-dive/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/series/dgx-spark/</loc>
+    <loc>https://brandongeraci.com/series/dgx-spark/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/dgx-spark/</loc>
+    <loc>https://brandongeraci.com/tags/dgx-spark/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/categories/investigation/</loc>
+    <loc>https://brandongeraci.com/categories/investigation/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/projects/dgx-spark/06-kv-cache-deep-dive/</loc>
+    <loc>https://brandongeraci.com/projects/dgx-spark/06-kv-cache-deep-dive/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/kv-cache/</loc>
+    <loc>https://brandongeraci.com/tags/kv-cache/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/memory/</loc>
+    <loc>https://brandongeraci.com/tags/memory/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/projects/</loc>
+    <loc>https://brandongeraci.com/projects/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/series/</loc>
+    <loc>https://brandongeraci.com/series/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/</loc>
+    <loc>https://brandongeraci.com/tags/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/tensorrt-llm/</loc>
+    <loc>https://brandongeraci.com/tags/tensorrt-llm/</loc>
     <lastmod>2025-11-08T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/conclusions/</loc>
+    <loc>https://brandongeraci.com/tags/conclusions/</loc>
     <lastmod>2025-11-08T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/phase2/</loc>
+    <loc>https://brandongeraci.com/tags/phase2/</loc>
     <lastmod>2025-11-08T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/recommendations/</loc>
+    <loc>https://brandongeraci.com/tags/recommendations/</loc>
     <lastmod>2025-11-08T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/projects/dgx-spark/05-what-we-learned/</loc>
+    <loc>https://brandongeraci.com/projects/dgx-spark/05-what-we-learned/</loc>
     <lastmod>2025-11-08T14:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/benchmarking/</loc>
+    <loc>https://brandongeraci.com/tags/benchmarking/</loc>
     <lastmod>2025-11-08T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/data/</loc>
+    <loc>https://brandongeraci.com/tags/data/</loc>
     <lastmod>2025-11-08T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/results/</loc>
+    <loc>https://brandongeraci.com/tags/results/</loc>
     <lastmod>2025-11-08T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/projects/dgx-spark/04-the-data/</loc>
+    <loc>https://brandongeraci.com/projects/dgx-spark/04-the-data/</loc>
     <lastmod>2025-11-08T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/cgroups/</loc>
+    <loc>https://brandongeraci.com/tags/cgroups/</loc>
     <lastmod>2025-11-08T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/docker/</loc>
+    <loc>https://brandongeraci.com/tags/docker/</loc>
     <lastmod>2025-11-08T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/grace-blackwell/</loc>
+    <loc>https://brandongeraci.com/tags/grace-blackwell/</loc>
     <lastmod>2025-11-08T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/projects/dgx-spark/03-unified-memory-revelation/</loc>
+    <loc>https://brandongeraci.com/projects/dgx-spark/03-unified-memory-revelation/</loc>
     <lastmod>2025-11-08T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/unified-memory/</loc>
+    <loc>https://brandongeraci.com/tags/unified-memory/</loc>
     <lastmod>2025-11-08T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/chroot/</loc>
+    <loc>https://brandongeraci.com/tags/chroot/</loc>
     <lastmod>2025-11-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/debugging/</loc>
+    <loc>https://brandongeraci.com/tags/debugging/</loc>
     <lastmod>2025-11-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/projects/dgx-spark/02-mpi-chroot-nightmare/</loc>
+    <loc>https://brandongeraci.com/projects/dgx-spark/02-mpi-chroot-nightmare/</loc>
     <lastmod>2025-11-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/mpi/</loc>
+    <loc>https://brandongeraci.com/tags/mpi/</loc>
     <lastmod>2025-11-08T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/tags/performance/</loc>
+    <loc>https://brandongeraci.com/tags/performance/</loc>
     <lastmod>2025-11-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/categories/performance-engineering/</loc>
+    <loc>https://brandongeraci.com/categories/performance-engineering/</loc>
     <lastmod>2025-11-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/projects/dgx-spark/01-the-mystery/</loc>
+    <loc>https://brandongeraci.com/projects/dgx-spark/01-the-mystery/</loc>
     <lastmod>2025-11-08T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brandonrc.github.io/blog/about/</loc>
+    <loc>https://brandongeraci.com/about/</loc>
     <lastmod>2025-11-08T00:00:00+00:00</lastmod>
   </url>
 </urlset>

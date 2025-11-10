@@ -1,4 +1,4 @@
-baseURL = 'https://brandonrc.github.io/blog/'
+baseURL = 'https://brandongeraci.com/'
 languageCode = 'en-us'
 title = "Brandon's Technical Blog"
 theme = 'PaperMod'
