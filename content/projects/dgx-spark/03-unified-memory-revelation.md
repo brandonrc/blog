@@ -17,7 +17,7 @@ After getting both Docker and native environments working, I could finally run p
 
 **"Where is the 26GB going?"**
 
-It wasn't CPU overhead - containers don't add 26GB of process memory.  
+It wasn't GPU overhead - containers don't add 26GB of process memory.  
 It wasn't the Docker daemon - that's tiny.  
 It wasn't duplicate libraries - bind mounts prevent that.
 
