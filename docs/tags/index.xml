@@ -2,143 +2,185 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Brandon&#39;s Technical Blog</title>
-    <link>https://brandongeraci.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Brandon&#39;s Technical Blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Nov 2025 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://brandongeraci.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep-Dive</title>
-      <link>https://brandongeraci.com/tags/deep-dive/</link>
+      <link>http://localhost:1313/tags/deep-dive/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/deep-dive/</guid>
+      <guid>http://localhost:1313/tags/deep-dive/</guid>
       <description></description>
     </item>
     <item>
       <title>Dgx-Spark</title>
-      <link>https://brandongeraci.com/tags/dgx-spark/</link>
+      <link>http://localhost:1313/tags/dgx-spark/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/dgx-spark/</guid>
+      <guid>http://localhost:1313/tags/dgx-spark/</guid>
       <description></description>
     </item>
     <item>
       <title>Kv-Cache</title>
-      <link>https://brandongeraci.com/tags/kv-cache/</link>
+      <link>http://localhost:1313/tags/kv-cache/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/kv-cache/</guid>
+      <guid>http://localhost:1313/tags/kv-cache/</guid>
       <description></description>
     </item>
     <item>
       <title>Memory</title>
-      <link>https://brandongeraci.com/tags/memory/</link>
+      <link>http://localhost:1313/tags/memory/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/memory/</guid>
+      <guid>http://localhost:1313/tags/memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Tensorrt-Llm</title>
-      <link>https://brandongeraci.com/tags/tensorrt-llm/</link>
+      <link>http://localhost:1313/tags/tensorrt-llm/</link>
       <pubDate>Sat, 08 Nov 2025 15:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/tensorrt-llm/</guid>
+      <guid>http://localhost:1313/tags/tensorrt-llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Conclusions</title>
-      <link>https://brandongeraci.com/tags/conclusions/</link>
+      <link>http://localhost:1313/tags/conclusions/</link>
       <pubDate>Sat, 08 Nov 2025 14:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/conclusions/</guid>
+      <guid>http://localhost:1313/tags/conclusions/</guid>
       <description></description>
     </item>
     <item>
       <title>Phase2</title>
-      <link>https://brandongeraci.com/tags/phase2/</link>
+      <link>http://localhost:1313/tags/phase2/</link>
       <pubDate>Sat, 08 Nov 2025 14:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/phase2/</guid>
+      <guid>http://localhost:1313/tags/phase2/</guid>
       <description></description>
     </item>
     <item>
       <title>Recommendations</title>
-      <link>https://brandongeraci.com/tags/recommendations/</link>
+      <link>http://localhost:1313/tags/recommendations/</link>
       <pubDate>Sat, 08 Nov 2025 14:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/recommendations/</guid>
+      <guid>http://localhost:1313/tags/recommendations/</guid>
       <description></description>
     </item>
     <item>
       <title>Benchmarking</title>
-      <link>https://brandongeraci.com/tags/benchmarking/</link>
+      <link>http://localhost:1313/tags/benchmarking/</link>
       <pubDate>Sat, 08 Nov 2025 13:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/benchmarking/</guid>
+      <guid>http://localhost:1313/tags/benchmarking/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://brandongeraci.com/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Sat, 08 Nov 2025 13:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Results</title>
-      <link>https://brandongeraci.com/tags/results/</link>
+      <link>http://localhost:1313/tags/results/</link>
       <pubDate>Sat, 08 Nov 2025 13:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/results/</guid>
+      <guid>http://localhost:1313/tags/results/</guid>
       <description></description>
     </item>
     <item>
       <title>Cgroups</title>
-      <link>https://brandongeraci.com/tags/cgroups/</link>
+      <link>http://localhost:1313/tags/cgroups/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/cgroups/</guid>
+      <guid>http://localhost:1313/tags/cgroups/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://brandongeraci.com/tags/docker/</link>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Grace-Blackwell</title>
-      <link>https://brandongeraci.com/tags/grace-blackwell/</link>
+      <link>http://localhost:1313/tags/grace-blackwell/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/grace-blackwell/</guid>
+      <guid>http://localhost:1313/tags/grace-blackwell/</guid>
       <description></description>
     </item>
     <item>
       <title>Unified-Memory</title>
-      <link>https://brandongeraci.com/tags/unified-memory/</link>
+      <link>http://localhost:1313/tags/unified-memory/</link>
       <pubDate>Sat, 08 Nov 2025 12:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/unified-memory/</guid>
+      <guid>http://localhost:1313/tags/unified-memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Chroot</title>
-      <link>https://brandongeraci.com/tags/chroot/</link>
+      <link>http://localhost:1313/tags/chroot/</link>
       <pubDate>Sat, 08 Nov 2025 11:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/chroot/</guid>
+      <guid>http://localhost:1313/tags/chroot/</guid>
       <description></description>
     </item>
     <item>
       <title>Debugging</title>
-      <link>https://brandongeraci.com/tags/debugging/</link>
+      <link>http://localhost:1313/tags/debugging/</link>
       <pubDate>Sat, 08 Nov 2025 11:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/debugging/</guid>
+      <guid>http://localhost:1313/tags/debugging/</guid>
       <description></description>
     </item>
     <item>
       <title>Mpi</title>
-      <link>https://brandongeraci.com/tags/mpi/</link>
+      <link>http://localhost:1313/tags/mpi/</link>
       <pubDate>Sat, 08 Nov 2025 11:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/mpi/</guid>
+      <guid>http://localhost:1313/tags/mpi/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>https://brandongeraci.com/tags/performance/</link>
+      <link>http://localhost:1313/tags/performance/</link>
       <pubDate>Sat, 08 Nov 2025 10:00:00 +0000</pubDate>
-      <guid>https://brandongeraci.com/tags/performance/</guid>
+      <guid>http://localhost:1313/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Autonomous-Navigation</title>
+      <link>http://localhost:1313/tags/autonomous-navigation/</link>
+      <pubDate>Sat, 15 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/autonomous-navigation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer-Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+      <pubDate>Sat, 15 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embedded-Systems</title>
+      <link>http://localhost:1313/tags/embedded-systems/</link>
+      <pubDate>Sat, 15 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/embedded-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jetson-Nano</title>
+      <link>http://localhost:1313/tags/jetson-nano/</link>
+      <pubDate>Sat, 15 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/jetson-nano/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Octocopter</title>
+      <link>http://localhost:1313/tags/octocopter/</link>
+      <pubDate>Sat, 15 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/octocopter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yolov3</title>
+      <link>http://localhost:1313/tags/yolov3/</link>
+      <pubDate>Sat, 15 Dec 2018 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/yolov3/</guid>
       <description></description>
     </item>
   </channel>
