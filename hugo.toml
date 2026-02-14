@@ -42,7 +42,8 @@ buildExpired = false
     Content = """
 Welcome! I write deep technical explorations of performance engineering, systems debugging, and AI infrastructure challenges.
 
-**Featured Series:**
+**Featured:**
+- [Artifact Keeper: Four Weeks From Nothing to Open-Source Artifactory Alternative](/projects/artifact-keeper-journey/) - 569 commits, 45+ package formats, native mobile apps, and a Hacker News front page launch
 - [DGX Spark Deep Dive](/projects/dgx-spark/) - Investigating container memory overhead on Grace Blackwell's unified memory architecture
 """
 

@@ -8,6 +8,12 @@ author: "Brandon Geraci"
 showToc: true
 TocOpen: false
 description: "How I went from grabbing my laptop in bed with an idea to a full open-source artifact registry with 45+ package formats, native mobile apps, end-to-end testing on self-hosted infrastructure, and a Hacker News front page launch -- all in four weeks."
+cover:
+  image: "/images/artifact-keeper-journey/feature-graphic.png"
+  alt: "Artifact Keeper - Your packages. Your servers. Your freedom. 45+ Package Formats, Self-Hosted, Free"
+  caption: ""
+  relative: false
+weight: 1
 ---
 
 ## It Started in Bed
